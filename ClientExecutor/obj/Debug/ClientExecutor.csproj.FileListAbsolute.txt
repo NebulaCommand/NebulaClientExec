@@ -1,0 +1,13 @@
+C:\Users\elfbr\source\repos\ClientExecutor\ClientExecutor\bin\Debug\ClientExecutor.exe.config
+C:\Users\elfbr\source\repos\ClientExecutor\ClientExecutor\bin\Debug\ClientExecutor.exe
+C:\Users\elfbr\source\repos\ClientExecutor\ClientExecutor\bin\Debug\ClientExecutor.pdb
+C:\Users\elfbr\source\repos\ClientExecutor\ClientExecutor\bin\Debug\FastColoredTextBox.dll
+C:\Users\elfbr\source\repos\ClientExecutor\ClientExecutor\bin\Debug\Guna.UI2.dll
+C:\Users\elfbr\source\repos\ClientExecutor\ClientExecutor\obj\Debug\ClientExecutor.csproj.AssemblyReference.cache
+C:\Users\elfbr\source\repos\ClientExecutor\ClientExecutor\obj\Debug\ClientExecutor.Form1.resources
+C:\Users\elfbr\source\repos\ClientExecutor\ClientExecutor\obj\Debug\ClientExecutor.Properties.Resources.resources
+C:\Users\elfbr\source\repos\ClientExecutor\ClientExecutor\obj\Debug\ClientExecutor.csproj.GenerateResource.cache
+C:\Users\elfbr\source\repos\ClientExecutor\ClientExecutor\obj\Debug\ClientExecutor.csproj.CoreCompileInputs.cache
+C:\Users\elfbr\source\repos\ClientExecutor\ClientExecutor\obj\Debug\ClientEx.76E6E42E.Up2Date
+C:\Users\elfbr\source\repos\ClientExecutor\ClientExecutor\obj\Debug\ClientExecutor.exe
+C:\Users\elfbr\source\repos\ClientExecutor\ClientExecutor\obj\Debug\ClientExecutor.pdb
